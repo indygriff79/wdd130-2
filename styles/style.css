@@ -59,16 +59,18 @@ h4{
 }
 .msg h2{
     color: white;
+    background-color: #9c6c48;
 }
 .msg p{
     color:black;
+    background-color:#9c6c48;
 }
 footer{
     background-color:#9c6c48;
     color:black;
 }
 footer a{
-
+    
     color:black;
 }
 footer a:hover{
