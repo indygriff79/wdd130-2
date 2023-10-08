@@ -53,6 +53,9 @@ h4{
 .book:hover, .join:hover{
     color: #E1D1BC;
 }
+.msg{
+    background-color:(225,209,188);
+}
 .msg h2{
     color: white;
 }
